@@ -10,3 +10,5 @@ public class Cadastro {
         this.sujo = sujo;
     }
 }
+
+
